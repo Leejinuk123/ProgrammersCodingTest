@@ -1,4 +1,4 @@
-//https://school.programmers.co.kr/learn/courses/30/lessons/181930#
+//https://school.programmers.co.kr/learn/courses/30/lessons/181930
 //22. 주사위 게임 2
 function solution(a, b, c) {
     if( a == b && b == c ) return ( 3 * a ) * (3 * (a ** 2)) * (3 * (a ** 3)); 
